@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "319880132516",
+    "firebase_url": "https://eatfast-6b235.firebaseio.com",
+    "project_id": "eatfast-6b235",
+    "storage_bucket": "eatfast-6b235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319880132516:android:61f7f969d05e75a1",
+        "android_client_info": {
+          "package_name": "com.example.admin.eat_fast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319880132516-oge44glct4o15ephd9igp5ctj1d08r4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.eat_fast",
+            "certificate_hash": "03fcac6c8980f62ef0eaa8654a263246685a5db3"
+          }
+        },
+        {
+          "client_id": "319880132516-0g05tpccmhml2qphcgjds0k90tcid2ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYICXOqIod-wPe2IvKhJPyVp3bATton0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319880132516-0g05tpccmhml2qphcgjds0k90tcid2ti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
